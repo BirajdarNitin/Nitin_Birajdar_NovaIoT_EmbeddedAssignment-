@@ -1,0 +1,2 @@
+# Nitin_Birajdar_NovaIoT_EmbeddedAssignment-
+FleetGuard Industrial IoT Monitoring Device
